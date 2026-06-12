@@ -1,4 +1,4 @@
-### Jake Harley
+## Jake Harley
 
 I'm a designer and developer exploring ways to *rethink* web-based multimedia experiences.  
 Take a look at my resume: 
